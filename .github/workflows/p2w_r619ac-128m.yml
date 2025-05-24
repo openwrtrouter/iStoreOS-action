@@ -7,7 +7,7 @@ on:
 
 env:
   REPO_URL: https://github.com/istoreos/istoreos
-  REPO_BRANCH: istoreos-24.10
+  REPO_BRANCH: istoreos-22.03
   CONFIG_FILE: configs/p2w_r619ac-128m.config
   DIY_SCRIPT: diy-script.sh
   CLASH_KERNEL: arm64
